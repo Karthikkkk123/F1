@@ -1,0 +1,3 @@
+@echo off
+echo Starting F1 Mindset Profiler...
+call npm run dev

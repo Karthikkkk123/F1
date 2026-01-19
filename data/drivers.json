@@ -1,0 +1,135 @@
+[
+    {
+        "name": "Max Verstappen",
+        "team": "Red Bull Racing",
+        "number": 1,
+        "nationality": "Netherlands",
+        "image_url": "https://media.formula1.com/image/upload/c_fill,w_720/q_auto/v1740000000/common/f1/2025/redbullracing/maxver01/2025redbullracingmaxver01right.webp"
+    },
+    {
+        "name": "Lando Norris",
+        "team": "McLaren",
+        "number": 4,
+        "nationality": "United Kingdom",
+        "image_url": "https://media.formula1.com/image/upload/c_fill,w_720/q_auto/v1740000000/common/f1/2025/mclaren/lannor01/2025mclarenlannor01right.webp"
+    },
+    {
+        "name": "Oscar Piastri",
+        "team": "McLaren",
+        "number": 81,
+        "nationality": "Australia",
+        "image_url": "https://media.formula1.com/image/upload/c_fill,w_720/q_auto/v1740000000/common/f1/2025/mclaren/oscpia01/2025mclarenoscpia01right.webp"
+    },
+    {
+        "name": "Charles Leclerc",
+        "team": "Scuderia Ferrari",
+        "number": 16,
+        "nationality": "Monaco",
+        "image_url": "https://media.formula1.com/image/upload/c_fill,w_720/q_auto/v1740000000/common/f1/2025/ferrari/chalec01/2025ferrarichalec01right.webp"
+    },
+    {
+        "name": "Lewis Hamilton",
+        "team": "Scuderia Ferrari",
+        "number": 44,
+        "nationality": "United Kingdom",
+        "image_url": "https://media.formula1.com/image/upload/c_fill,w_720/q_auto/v1740000000/common/f1/2025/ferrari/lewham01/2025ferrarilewham01right.webp"
+    },
+    {
+        "name": "George Russell",
+        "team": "Mercedes",
+        "number": 63,
+        "nationality": "United Kingdom",
+        "image_url": "https://media.formula1.com/image/upload/c_fill,w_720/q_auto/v1740000000/common/f1/2025/mercedes/georus01/2025mercedesgeorus01right.webp"
+    },
+    {
+        "name": "Andrea Kimi Antonelli",
+        "team": "Mercedes",
+        "number": 12,
+        "nationality": "Italy",
+        "image_url": "https://media.formula1.com/image/upload/c_fill,w_720/q_auto/v1740000000/common/f1/2025/mercedes/andant01/2025mercedesandant01right.webp"
+    },
+    {
+        "name": "Yuki Tsunoda",
+        "team": "Red Bull Racing",
+        "number": 22,
+        "nationality": "Japan",
+        "image_url": "https://media.formula1.com/image/upload/c_fill,w_720/q_auto/v1740000000/common/f1/2025/redbullracing/yuktsu01/2025redbullracingyuktsu01right.webp"
+    },
+    {
+        "name": "Pierre Gasly",
+        "team": "Alpine",
+        "number": 10,
+        "nationality": "France",
+        "image_url": "https://media.formula1.com/image/upload/c_fill,w_720/q_auto/v1740000000/common/f1/2025/alpine/piegas01/2025alpinepiegas01right.webp"
+    },
+    {
+        "name": "Fernando Alonso",
+        "team": "Aston Martin",
+        "number": 14,
+        "nationality": "Spain",
+        "image_url": "https://media.formula1.com/image/upload/c_fill,w_720/q_auto/v1740000000/common/f1/2025/astonmartin/feralo01/2025astonmartinferalo01right.webp"
+    },
+    {
+        "name": "Lance Stroll",
+        "team": "Aston Martin",
+        "number": 18,
+        "nationality": "Canada",
+        "image_url": "https://media.formula1.com/image/upload/c_fill,w_720/q_auto/v1740000000/common/f1/2025/astonmartin/lanstr01/2025astonmartinlanstr01right.webp"
+    },
+    {
+        "name": "Alexander Albon",
+        "team": "Williams Racing",
+        "number": 23,
+        "nationality": "Thailand / United Kingdom",
+        "image_url": "https://media.formula1.com/image/upload/c_fill,w_720/q_auto/v1740000000/common/f1/2025/williams/alealb01/2025williamsalealb01right.webp"
+    },
+    {
+        "name": "Carlos Sainz",
+        "team": "Williams Racing",
+        "number": 55,
+        "nationality": "Spain",
+        "image_url": "https://media.formula1.com/image/upload/c_fill,w_720/q_auto/v1740000000/common/f1/2025/williams/carsai01/2025williamscarsai01right.webp"
+    },
+    {
+        "name": "Liam Lawson",
+        "team": "Racing Bulls",
+        "number": 30,
+        "nationality": "New Zealand",
+        "image_url": "https://media.formula1.com/image/upload/c_fill,w_720/q_auto/v1740000000/common/f1/2025/racingbulls/lialaw01/2025racingbullslialaw01right.webp"
+    },
+    {
+        "name": "Isack Hadjar",
+        "team": "Racing Bulls",
+        "number": 6,
+        "nationality": "France",
+        "image_url": "https://media.formula1.com/image/upload/c_fill,w_720/q_auto/v1740000000/common/f1/2025/racingbulls/isahad01/2025racingbullsisahad01right.webp"
+    },
+    {
+        "name": "Nico Hülkenberg",
+        "team": "Kick Sauber / Audi",
+        "number": 27,
+        "nationality": "Germany",
+        "image_url": "https://media.formula1.com/image/upload/c_fill,w_720/q_auto/v1740000000/common/f1/2025/kicksauber/nichul01/2025kicksaubernichul01right.webp"
+    },
+    {
+        "name": "Gabriel Bortoleto",
+        "team": "Kick Sauber / Audi",
+        "number": 5,
+        "nationality": "Brazil",
+        "image_url": "https://media.formula1.com/image/upload/c_fill,w_720/q_auto/v1740000000/common/f1/2025/kicksauber/gabbor01/2025kicksaubergabbor01right.webp"
+    },
+    {
+        "name": "Esteban Ocon",
+        "team": "Haas F1 Team",
+        "number": 31,
+        "nationality": "France",
+        "image_url": "https://media.formula1.com/image/upload/c_fill,w_720/q_auto/v1740000000/common/f1/2025/haas/estoco01/2025haasestoco01right.webp"
+    },
+    {
+        "name": "Oliver Bearman",
+        "team": "Haas F1 Team",
+        "number": 87,
+        "nationality": "United Kingdom",
+        "image_url": "https://media.formula1.com/image/upload/c_fill,w_720/q_auto/v1740000000/common/f1/2025/haas/olibea01/2025haasolibea01right.webp"
+    }
+]
