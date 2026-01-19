@@ -12,10 +12,10 @@ export default function Home() {
                 {/* Hero Section */}
                 <section className="text-center mb-20 animate-fade-in">
                     <h1 className="text-5xl md:text-7xl font-black mb-6 bg-gradient-to-r from-f1-red via-f1-orange to-f1-red bg-clip-text text-transparent leading-tight">
-                        Which F1 driver's mindset do you have in real life?
+                        Which F1 driver&apos;s mindset do you have in real life?
                     </h1>
                     <p className="text-xl md:text-2xl text-gray-300 mb-10 max-w-3xl mx-auto leading-relaxed">
-                        Answer a short quiz about how you handle pressure, risk, and teamwork in everyday life—and we'll match you to an F1-style driver archetype.
+                        Answer a short quiz about how you handle pressure, risk, and teamwork in everyday life—and we&apos;ll match you to an F1-style driver archetype.
                     </p>
                     <Link href="/quiz">
                         <PrimaryButton>Start Quiz</PrimaryButton>
